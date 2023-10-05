@@ -1,0 +1,15 @@
+[tfb98903]
+description  = "tfb98903"
+environment  = "TEST"
+credit_cost  = '2.00'
+storage_cost = '23.00'
+timezone     = "America/New_York"
+connection   = "tfb98903"
+
+[AWS_CAS2]
+description  = "AWS_CAS2"
+environment  = "TEST"
+credit_cost  = '2.00'
+storage_cost = '23.00'
+timezone     = "America/New_York"
+connection   = "AWS_CAS2"
